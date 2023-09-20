@@ -17,6 +17,6 @@ name:"Aryan",
 family:"Shafeie",
 age:20,
 city:"Esfahan",
-hobbies:["Coding","Learning"]
+hobbies:["Coding","Learning"],
 status:"Learning react"
 }
