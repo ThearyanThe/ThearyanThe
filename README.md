@@ -3,7 +3,7 @@
 💛I'm a **Front** End developer...
 ```javascript
 type Developer={
-skils:string[];
+skills:string[];
 name:string;
 family:string;
 age:number;
@@ -12,7 +12,7 @@ hobbies:string[];
 status:string;
 }
 const newDevelper:Developer={
-skils:["HTML","CSS","Tailwind","sass","JS","TS","alpineJS"],
+skills:["HTML","CSS","Tailwind","sass","JS","TS","alpineJS"],
 name:"Aryan",
 family:"Shafeie",
 age:20,
