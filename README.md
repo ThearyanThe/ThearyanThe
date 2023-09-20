@@ -1,6 +1,6 @@
 ## Hi I'm Aryan 👋
 ## 🛠  About Me
-💛I'm a **Front** End developer...
+💛I'm a **`FrontEnd`** developer...
 ```javascript
 type Developer={
 skills:string[];
