@@ -1,6 +1,6 @@
-### Hi I'm Aryan 👋
+## Hi I'm Aryan 👋
 ## 🛠  About Me
-I'm a Front End developer...
+I'm a **Front** End developer...
 ```javascript
 type Developer={
 skils:string[];
@@ -27,5 +27,10 @@ status:"Learning react"
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![alpine Badge](https://img.shields.io/badge/alpine-Expert-indigo)
+![AlpineJS](https://img.shields.io/badge/AlpineJS-%23007ACC.svg?style=for-the-badge&logo=AlpineJS&logoColor=white)
+</br>
+## Contact with me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AryanDev_JS)
+
 
