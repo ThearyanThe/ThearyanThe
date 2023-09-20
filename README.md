@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**ThearyanThe/ThearyanThe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi I'm Aryan 👋
+## 🛠  About Me
+I'm a FronT End developer...
+```javascript
+type Developer={
+skils:string[];
+name:string;
+family:string;
+age:number;
+city:string;
+hobbies:string[];
+status:string;
+}
+const newDevelper:Developer={
+skils:["HTML","CSS","Tailwind","sass","JS","TS","alpineJS"],
+name:"Aryan",
+family:"Shafeie",
+age:20,
+city:"Esfahan",
+hobbies:["Coding","Learning"]
+status:"Learning react"
+}
