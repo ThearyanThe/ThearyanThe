@@ -1,6 +1,6 @@
 ### Hi I'm Aryan 👋
 ## 🛠  About Me
-I'm a FronT End developer...
+I'm a Front End developer...
 ```javascript
 type Developer={
 skils:string[];
@@ -20,3 +20,12 @@ city:"Esfahan",
 hobbies:["Coding","Learning"],
 status:"Learning react"
 }
+```
+![HTML Badge](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS Badge](https://img.shields.io/badge/CSS-Expert-blue)
+![tailwind Badge](https://img.shields.io/badge/Tailwind-Expert-teal)
+![sass Badge](https://img.shields.io/badge/sass-Expert-pink)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![typeScript Badge](https://img.shields.io/badge/Typescript-Expert-blue)
+![alpine Badge](https://img.shields.io/badge/alpine-Expert-indigo)
+
