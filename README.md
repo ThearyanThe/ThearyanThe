@@ -58,7 +58,7 @@ More coming soon…
 ---
 
 ## 📬 Contact
-- Telegram: [@AryanDev_JS](https://t.me/AryanDev_JS)
+- gmail: [eng.aryanshafiei@gmail.com](eng.aryanshafiei@gmail.com)
 
 ---
 
