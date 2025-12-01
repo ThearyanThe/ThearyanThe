@@ -1,71 +1,54 @@
-<h1 align="center">🔐 Aryan — Cybersecurity Learner</h1>
+# About Me
 
-<p align="center">
-  <strong>Pentesting | Web Security | Linux</strong>
-</p>
+I am a former Front-End Developer with some Back-End experience, now transitioning into the field of **Cybersecurity**.
 
----
+My background in web development helps me understand how applications are built, how data flows, and where security weaknesses can appear.  
+Today, I am focused on learning ethical hacking, defensive security, and real-world attack techniques.
 
-## 🚀 About Me
-I'm Aryan — a former Front-End developer shifting fully into Cybersecurity & Ethical Hacking.  
-Right now I'm building my foundation in Linux, Networking, Web Security, and Pentesting tools.
+## Background
 
-A day without learning is a wasted day.
+- Front-End Developer (HTML, CSS, JavaScript, React)
+- Basic Back-End experience (Node.js / Express)
+- Familiar with API design, authentication, and databases
+- Worked on UI templates, dashboards, and small full-stack projects
 
----
+## Current Focus
 
-## 🛠️ Skills & Tools (Learning + Using)
+I am actively learning:
 
-### 🔹 Operating Systems
-- Kali Linux  
-- Ubuntu  
-- Windows (Analysis)
+- Ethical Hacking Fundamentals  
+- Linux & Terminal  
+- Networking basics  
+- Web Application Security  
+- OWASP Top 10  
+- Vulnerability scanning and exploitation  
+- Bug hunting basics  
 
-### 🔹 Networking & Security
-- OSI Model  
-- TCP/IP  
-- DNS / DHCP / Routing  
-- Firewall Basics  
-- Web Security Fundamentals  
+## Why Cybersecurity?
 
-### 🔹 Pentesting Tools
+After working in development, I became interested in how attackers exploit systems and how security flaws are created.  
+I want to understand weaknesses from both the **developer** and **attacker** perspectives to build and secure better applications.
+
+## Tools & Technologies
+
+- Linux / Kali Linux  
+- Burp Suite  
 - Nmap  
-- BurpSuite  
 - Wireshark  
-- Hydra  
-- Gobuster  
-- SQLmap  
+- Python basics  
+- Git & GitHub  
 
-### 🔹 Programming & Scripting
-- Bash  
-- Python  
-- JavaScript 
+## Goals
 
----
-
-## 📚 Current Focus
-- Building a Home Lab using VMs  
-- Practicing Web Pentesting  
-- Solving challenges on HackTheBox & TryHackMe  
-- Writing simple tools (scanners, automation scripts)
+- Become a skilled Ethical Hacker  
+- Build a strong foundation in Web Security  
+- Work on CTFs and practical labs  
+- Create security-focused projects and writeups
 
 ---
 
-## 🧪 Projects (Updated Weekly)
 
-More coming soon…
 
----
-
-## 📬 Contact
-- gmail: [eng.aryanshafiei@gmail.com](eng.aryanshafiei@gmail.com)
-
----
-
-<p align="center">
-  <strong>💻 Consistency beats talent.</strong>
-</p>
-</br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
