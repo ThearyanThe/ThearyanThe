@@ -1,65 +1,48 @@
-# About Me
+# 👋 Hi, I'm Aryan Shafiei
 
-I am a former Front-End Developer with some Back-End experience, now transitioning into the field of **Cybersecurity**.
+**From Developer to Security Enthusiast | Former Web Development Instructor**
 
-My background in web development helps me understand how applications are built, how data flows, and where security weaknesses can appear.  
-Today, I am focused on learning ethical hacking, defensive security, and real-world attack techniques.
-
-## Background
-
-- Front-End Developer (HTML, CSS, JavaScript, React)
-- Basic Back-End experience (Node.js / Express)
-- Familiar with API design, authentication, and databases
-- Worked on UI templates, dashboards, and small full-stack projects
-
-## Current Focus
-
-I am actively learning:
-
-- Ethical Hacking Fundamentals  
-- Linux & Terminal  
-- Networking basics  
-- Web Application Security  
-- OWASP Top 10  
-- Vulnerability scanning and exploitation  
-- Bug hunting basics  
-
-## Why Cybersecurity?
-
-After working in development, I became interested in how attackers exploit systems and how security flaws are created.  
-I want to understand weaknesses from both the **developer** and **attacker** perspectives to build and secure better applications.
-
-## Tools & Technologies
-
-- Linux / Kali Linux  
-- Burp Suite  
-- Nmap  
-- Wireshark  
-- Python basics  
-- Git & GitHub  
-
-## Goals
-
-- Become a skilled Ethical Hacker  
-- Build a strong foundation in Web Security  
-- Work on CTFs and practical labs  
-- Create security-focused projects and writeups
+I'm a curious mind who transitioned from building web applications to breaking them — all in the name of making the digital world a safer place. With years of experience as a **front-end & back-end developer** and an **instructor** in JavaScript, React, and Node.js, I now focus on **penetration testing** and **cybersecurity**.
 
 ---
 
+### 💼 Background
+- **Full‑Stack Development**: HTML, CSS, JavaScript, React, Node.js, Express  
+- **Teaching**: Over 3 years of mentoring and instructing web development courses  
+- **Projects**: Built dashboards, UI templates, and full‑stack applications  
+- **DevOps Basics**: Git, Linux, REST APIs, authentication flows  
 
+### 🔭 What I'm Up To
+- Actively learning **ethical hacking** and **penetration testing**  
+- Exploring **OWASP Top 10**, **network security**, and **vulnerability assessment**  
+- Solving CTFs and practicing on platforms like Hack The Box & TryHackMe  
+- Documenting my journey through write‑ups and security projects  
 
+### 🌱 Currently Learning
+- Kali Linux & advanced Linux commands  
+- Burp Suite, Nmap, Wireshark  
+- Web application security (SQLi, XSS, CSRF, etc.)  
+- Python for automation and exploit development  
 
+### 🛠️ Tools & Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![AlpineJS](https://img.shields.io/badge/AlpineJS-%23007ACC.svg?style=for-the-badge&logo=AlpineJS&logoColor=white)
-## Contact with me
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square)](eng.aryanshafiei@gmail.com)
+### 🎯 Goals
+- Become a skilled **ethical hacker** and **security researcher**  
+- Contribute to open‑source security tools  
+- Share knowledge through blog posts and write‑ups  
+- Help developers build secure applications from the ground up  
 
+### 📫 Let's Connect
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square)](mailto:eng.aryanshafiei@gmail.com)
 
